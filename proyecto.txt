@@ -3,3 +3,6 @@ Proyecto ficticio de práctica con Git y GitHub.
 Este archivo será usado para realizar commits, ramas, fusiones y pruebas de colaboración.
 Objetivo del proyecto:
 Aprender a usar Git, GitHub, commits, ramas, push, pull y colaboración.
+Integrantes:
+- Jhon Jairo Daza Caro
+- Jose Manuel Mina Devia
