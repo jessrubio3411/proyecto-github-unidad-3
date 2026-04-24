@@ -6,3 +6,5 @@ Aprender a usar Git, GitHub, commits, ramas, push, pull y colaboración.
 Integrantes:
 - Jhon Jairo Daza Caro
 - Jose Manuel Mina Devia
+Nueva funcionalidad:
+Se agrega una sección de prueba para demostrar el uso de ramas en Git.
