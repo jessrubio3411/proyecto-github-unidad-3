@@ -22,7 +22,6 @@ El proyecto incluye el uso de repositorio local, repositorio remoto, commits, ra
 ## Cómo clonar el proyecto
 
 Para clonar el repositorio, se debe usar el siguiente comando:
-```markdown
 ```bash
 git clone https://github.com/jessrubio3411/proyecto-github-unidad-3.git
 
